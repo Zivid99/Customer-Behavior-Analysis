@@ -1,7 +1,6 @@
 # Customer-Behavior-Analysis
 Analyzing customer return patterns offers a strategic advantage, allowing companies to identify and address the underlying factors contributing to returns. 
 
-# Project Overview：
 # Background:
 In the fast-paced world of e-commerce, understanding and mitigating product returns is critical for maintaining profitability and customer satisfaction. As businesses expand their online presence, the challenge of managing returns has grown exponentially. Therefore, analyzing customer return patterns offers a strategic advantage, allowing companies to identify and address the underlying factors contributing to returns. This not only improves the customer experience but also significantly reduces costs and resource wastage associated with the return process. 
 This study employs SAS Enterprise Miner to further analyze customer return patterns, which is advantageous for data cleaning, refining predictive models and enhancing decision-making strategies in the realm of e-commerce. 
